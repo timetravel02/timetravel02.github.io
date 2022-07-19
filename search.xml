@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>next主题学习</title>
-    <url>/timetravel02/2022/07/19/next%E4%B8%BB%E9%A2%98%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<h3 id="学习next的配置和markdawn"><a href="#学习next的配置和markdawn" class="headerlink" title="学习next的配置和markdawn"></a>学习next的配置和markdawn</h3>]]></content>
-      <tags>
-        <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我的第一篇blog</title>
     <url>/timetravel02/2022/07/19/1/</url>
     <content><![CDATA[<p>折腾了半天终于是搞的有点样子出来，主要是在选择用github还是gitee做部署</p>
@@ -16,5 +8,13 @@
 <p>又被主题困扰，目前会逐步优化，尽情期待。</p>
 <p>谢谢</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>next主题学习</title>
+    <url>/timetravel02/2022/07/19/next%E4%B8%BB%E9%A2%98%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h3 id="学习next的配置和markdawn"><a href="#学习next的配置和markdawn" class="headerlink" title="学习next的配置和markdawn"></a>学习next的配置和markdawn</h3>]]></content>
+      <tags>
+        <tag>学习</tag>
+      </tags>
   </entry>
 </search>
